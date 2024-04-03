@@ -1,0 +1,30 @@
+[
+  {
+    "id": "03dc",
+    "nome": "Rodrigo Santoro",
+    "endereço": "Rua 5, 1255",
+    "casado": false,
+    "renda": 2000
+  },
+  {
+    "id": "6bd1",
+    "nome": "Juliano Gimenes",
+    "endereço": "R da saude, 350",
+    "casado": false,
+    "renda": 2000
+  },
+  {
+    "id": "a66b",
+    "nome": "Tabata Mendes",
+    "endereço": "R da saude, 350",
+    "casado": false,
+    "renda": 10000
+  },
+  {
+    "id": "ac49",
+    "nome": "Silvana Silva ",
+    "endereço": "R da saude, 350",
+    "casado": false,
+    "renda": 14000
+  }
+]

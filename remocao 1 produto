@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16df",
+    "descricao": "Ipad 9° geração",
+    "preco": 3900,
+    "quantidade": 2
+  },
+  {
+    "id": "ffd3",
+    "descricao": "Iphone SE",
+    "preco": 2200,
+    "quantidade": 5
+  },
+  {
+    "id": "8020",
+    "descricao": "MacBook air 2020",
+    "preco": 8200,
+    "quantidade": 10
+  },
+  {
+    "id": "361f",
+    "descricao": "Air Pods Pro",
+    "preco": 1800,
+    "quantidade": 14
+  }
+]
